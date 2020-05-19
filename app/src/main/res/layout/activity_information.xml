@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/textView22"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="●当アプリについて\n当アプリでは日本郵便HPの情報を元に作成しており、また最新の情報でない場合がございます。実際に発送される際には、必ず直接日本郵便へご確認下さい。\n\n" />
+
+    <TextView
+        android:id="@+id/textView27"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="●発送条件\n当アプリでは、国際発送の際に役立つ、日本郵便が提供する通常郵便物-小形包装物（船便、航空便、SAL瓶）、イーパケットライト、イーパケットライト、EMS（物品） の発送条件、料金をまとめています。\n\n" />
+
+    <TextView
+        android:id="@+id/textView32"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="●評価\n今後のアップデートのためにも、是非評価のほどよろしくお願いします。\n\n" />
+
+    <TextView
+        android:id="@+id/textView37"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="●バージョン情報（更新日）				 				 \ncopy rightに関する記載				 \n製作者：齋藤七瀬\n企画：イートレード名古屋				" />
+</LinearLayout>
